@@ -14,6 +14,7 @@ function parkInfoTemplate(info) {
   </p>`;
 }
 
+
 // update the title of the site. Notice that we can select things in the head just like in the body with querySelector
 document.querySelector("head > title").textContent = parkData.fullName;
 // set the banner image
