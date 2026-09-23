@@ -87,6 +87,11 @@
 }
 /* Global navbar styling */
 
+/* added myself might need to take out later */
+.global-nav { 
+  display: none;
+}
+
 .global-header {
   background-color: var(--bs-black);
   color: white;
